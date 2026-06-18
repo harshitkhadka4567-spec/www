@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 88" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Business Brains LLC</title>
+  <desc id="logoDesc">Business Brains LLC dba Bookkeeping Boutique logo</desc>
+  <g transform="translate(7 7)">
+    <rect x="8" y="4" width="27" height="27" rx="5" fill="#7b1e2b" transform="rotate(-7 21.5 17.5)"/>
+    <rect x="42" y="4" width="27" height="27" rx="5" fill="#6f9b3d" transform="rotate(9 55.5 17.5)"/>
+    <rect x="7" y="39" width="27" height="27" rx="5" fill="#e87922" transform="rotate(12 20.5 52.5)"/>
+    <rect x="42" y="38" width="27" height="27" rx="5" fill="#0f5f6b" transform="rotate(-8 55.5 51.5)"/>
+  </g>
+  <text x="88" y="39" fill="#7b1e2b" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="500">Business Brains LLC</text>
+  <text x="90" y="64" fill="#7b1e2b" font-family="Georgia, 'Times New Roman', serif" font-size="16">dba Bookkeeping Boutique</text>
+</svg>
